@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parita2003
+- 👋 Hi, I’m Parita
 - 👀 I’m interested in cc i.e. coding and creatives
 - 🌱 I’m currently in my B.Tech Fourth Year
 - 📫 Contact : paritamukeshmend@gmail.com 
