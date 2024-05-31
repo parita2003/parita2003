@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parita2003
 - 👀 I’m interested in cc i.e. coding and creatives
-- 🌱 I’m currently in my B.Tech Third Year
+- 🌱 I’m currently in my B.Tech Fourth Year
 - 📫 Contact : paritamukeshmend@gmail.com 
 - 😄 Pronouns: She
 - ⚡ Fun fact: Eat sleep create code repeat
