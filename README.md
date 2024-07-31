@@ -27,4 +27,7 @@ Welcome to my GitHub profile! I'm a B.Tech fourth-year student passionate about 
   <a href="mailto:paritamukeshmend@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/parita2003/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
 </div>
