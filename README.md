@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a B.Tech fourth-year student passionate about 
 ## 🔗 Connect with Me
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://www.linkedin.com/in/parita2003" target="_blank">
+  <a href="https://www.linkedin.com/in/parita-mendapara/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:paritamukeshmend@gmail.com">
