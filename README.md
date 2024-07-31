@@ -13,8 +13,7 @@ Welcome to my GitHub profile! I'm a B.Tech fourth-year student passionate about 
 ## 📈 GitHub Stats
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=parita2003&show_icons=true&theme=radical" alt="Parita's GitHub Stats" style="width: 45%; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parita2003&layout=compact&theme=radical" alt="Top Languages" style="width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parita2003&layout=compact&theme=radical" alt="Top Languages" style="width: 40%;" />
 </div>
 
 ---
