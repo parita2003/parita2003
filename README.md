@@ -1,6 +1,6 @@
 # Hi, I'm Parita! 👋
 
-Welcome to my GitHub profile! I'm a B.Tech fourth-year student passionate about coding and creatives. Here's a bit about me:
+Welcome to my GitHub profile!
 
 - 👀 Interested in coding and creatives
 - 🌱 Currently in my B.Tech Fourth Year
