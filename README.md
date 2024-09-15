@@ -4,7 +4,6 @@ Welcome to my GitHub profile!
 
 - 👀 Interested in coding and creatives
 - 🌱 Currently in my B.Tech Fourth Year
-- 📫 Contact: paritamukeshmend@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Eat, sleep, create, code, repeat
 
