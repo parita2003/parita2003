@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 - 👀 Interested in coding and creatives
-- 🌱 Currently in my B.Tech Fourth Year
+- 🌱 Currently SDE I at ICICI
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Eat, sleep, create, code, repeat
 
