@@ -9,13 +9,6 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📈 GitHub Stats
-
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parita2003&layout=compact&theme=radical" alt="Top Languages" style="width: 40%;" />
-</div>
-
----
 
 ## 🔗 Connect with Me
 
